@@ -30,7 +30,7 @@ $ cd web-scraper
 # Install dependencies
 $ npm install
 
-#Set an .env file as well as a URLs.json file in the project directory and run pages.js and then index.js
+#Set an .env file as well as a URLs.json file in the project directory and run page.js and then index.js
 ```
 
 Made with :heart: by Laisa Costa
