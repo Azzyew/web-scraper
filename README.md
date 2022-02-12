@@ -12,10 +12,10 @@ This project was mainly for me to study both web scraping as well as Node.js wit
 
 # :computer: Technologies
 
-*[Node.js](https://nodejs.org/en/)
-*[Puppeteer](https://puppeteer.github.io/puppeteer/)
-*[Mongoose](https://mongoosejs.com/)
-*[MongoDB Atlas](https://www.mongodb.com/atlas)
+* [Node.js](https://nodejs.org/en/)
+* [Puppeteer](https://puppeteer.github.io/puppeteer/)
+* [Mongoose](https://mongoosejs.com/)
+* [MongoDB Atlas](https://www.mongodb.com/atlas)
 
 # :rocket: How to run
 
