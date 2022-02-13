@@ -1,6 +1,6 @@
 # Web Scraper
 
-# :pushpin: Tabela de Conteúdos
+# :pushpin: Table of Contents
 
 * [Introduction](#paperclip-introduction)
 * [Technologies](#computer-technologies)
